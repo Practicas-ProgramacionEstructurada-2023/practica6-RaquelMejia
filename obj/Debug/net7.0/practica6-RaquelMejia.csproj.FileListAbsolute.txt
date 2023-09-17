@@ -1,0 +1,14 @@
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\bin\Debug\net7.0\practica6-RaquelMejia.exe
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\bin\Debug\net7.0\practica6-RaquelMejia.deps.json
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\bin\Debug\net7.0\practica6-RaquelMejia.runtimeconfig.json
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\bin\Debug\net7.0\practica6-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\bin\Debug\net7.0\practica6-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.AssemblyInfoInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.AssemblyInfo.cs
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.csproj.CoreCompileInputs.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\refint\practica6-RaquelMejia.dll
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.pdb
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\practica6-RaquelMejia.genruntimeconfig.cache
+C:\Users\Isaí Meléndez\Desktop\Repositorio_Practicas\practica6-RaquelMejia\obj\Debug\net7.0\ref\practica6-RaquelMejia.dll
